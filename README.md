@@ -4,11 +4,11 @@ The purpose of this project is to help travelers identify their potential travel
 
 ## Results
 ### This project uses the Open Weather Map API to pull weather data on over 700 cities around the world. The data is including:
-    Maximum Temperature
-    Wind Speed
-    Humidity
-    Cloudiness
-    Current Weather Description
+  1. Maximum Temperature
+  2. Wind Speed
+  3. Humidity
+  4. Cloudiness
+  5. Current Weather Description
     
 ### Create a travel destinations map
 
